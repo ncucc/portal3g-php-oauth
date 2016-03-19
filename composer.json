@@ -3,7 +3,8 @@
     "description": "OAuth for NCU Portal 3G",
     "type": "library",
     "require": {
-        "lusitanian/oauth": "~0.3"
+        "lusitanian/oauth": "~0.3",
+        "oriceon/oauth-5-laravel": "dev-master"
     },
     "license": "MIT",
     "authors": [
