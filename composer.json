@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "lusitanian/oauth": "~0.3",
-        "oriceon/oauth-5-laravel": "dev-master"
+        "oriceon/oauth-5-laravel": "~1.0"
     },
     "license": "MIT",
     "authors": [
