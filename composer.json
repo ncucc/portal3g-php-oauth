@@ -1,0 +1,22 @@
+{
+    "name": "linuzilla/portal3g-php-oauth",
+    "description": "OAuth for NCU Portal 3G",
+    "type": "library",
+    "require": {
+        "lusitanian/oauth": "~0.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mac Liu",
+            "email": "linuzilla@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "OAuth\\OAuth2\\Service\\": "src/" },
+        "exclude-from-classmap": [
+                "/Tests/"
+        ]
+    },
+    "minimum-stability": "dev"
+}
