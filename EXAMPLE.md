@@ -91,6 +91,6 @@ Route::group(['middleware' => ['web']], function () {
         'portal_id', 'identifier'
     ];
 ```
-然後做一次 php artisan migration
+然後做一次 php artisan migrate
 
 大概就這樣吧 ...
