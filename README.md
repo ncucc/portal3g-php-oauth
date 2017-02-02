@@ -7,7 +7,7 @@
 ```json
     "require": {
         "linuzilla/portal3g-php-oauth": "dev-master",
-        "oriceon/oauth-5-laravel": "dev-master"
+        "oriceon/oauth-5-laravel": "dev-master#3f6c663b48c9878cc1d8c56e16ad6c2c3d019dc8"
     },
 ```
 執行 composer update 將需要的 package 安裝進來
